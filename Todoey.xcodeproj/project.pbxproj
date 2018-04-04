@@ -57,12 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				750CF7E4207399F900D32377 /* AppDelegate.swift */,
+				75FBD1462073C43E00BBBB7A /* Data model */,
 				75FBD1472073C45400BBBB7A /* Controllers */,
 				75FBD1482073C46700BBBB7A /* Views */,
 				75FBD1492073C49300BBBB7A /* Supporting files */,
 				750CF7ED207399FA00D32377 /* LaunchScreen.storyboard */,
 				750CF7F0207399FA00D32377 /* Info.plist */,
-				75FBD1462073C43E00BBBB7A /* Data model */,
 			);
 			path = Todoey;
 			sourceTree = "<group>";
